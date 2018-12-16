@@ -38,12 +38,12 @@ int main() {
 
     Tree three = Tree();
 
-    three.add(6);
-    three.add(5);
-    three.add(6);
-    three.add(3);
+    three.add(1);
     three.add(10);
-    three.add(7);
+    three.add(100);
+    three.add(25);
+    three.add(47);
+    three.add(24);
     three.add(12);
 
     std::cout << "Tree:" << std::endl;
